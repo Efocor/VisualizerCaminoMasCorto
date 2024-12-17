@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\camicortin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\camicortin.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\camicortin.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\camicortin.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\bin\Debug\net8.0-windows\camicortin.exe
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\bin\Debug\net8.0-windows\camicortin.deps.json
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\bin\Debug\net8.0-windows\camicortin.runtimeconfig.json
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\bin\Debug\net8.0-windows\camicortin.dll
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\bin\Debug\net8.0-windows\camicortin.pdb
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\camicortin.dll
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\refint\camicortin.dll
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\camicortin.pdb
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\camicortin.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\GG\CODE2\camicortin\obj\Debug\net8.0-windows\ref\camicortin.dll
